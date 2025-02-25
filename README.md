@@ -10,6 +10,6 @@ O BeeCrowd é uma plataforma que oferece uma grande variedade de problemas de pr
 
 Se você tiver dúvidas, sugestões ou quiser colaborar, entre em contato:
 
-- **Nome**: [Lucas Franco Zanforlim]
-- **Email**: [lucasfzanfa@gmail.com]
-- **GitHub**: [https://github.com/lucaszanfa]
+- **Nome**: Lucas Franco Zanforlim
+- **Email**: lucasfzanfa@gmail.com
+- **GitHub**: https://github.com/lucaszanfa
